@@ -26,3 +26,4 @@ ____
 **Изменение Y:** Text (-5 ... 3) 
 **Изменение R:** Text (2 ... 5)  
 
+![grid](https://github.com/atrenes/web-2/blob/main/grid.png)
